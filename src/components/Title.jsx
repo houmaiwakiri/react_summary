@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 export const Title = () => {
   return (
     <div>
         <div className="header">
-            <h1>パネルゲーム</h1>
+            <h1>イワキリコンテンツ@React</h1>
         </div>
     </div>
   )
