@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const SideBar = () => {
+export const Main = () => {
   return (
     <div className="contents">
       <ul>
